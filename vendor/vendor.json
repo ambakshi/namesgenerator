@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "h39spbceeu1nqILHxb8dtNaEI50=",
+			"path": "github.com/docker/docker/pkg/namesgenerator",
+			"revision": "a5631c75e1349f6d71c53dbabee7f166f770d2b2",
+			"revisionTime": "2017-08-25T19:09:52Z"
+		}
+	],
+	"rootPath": "github.com/ambakshi/namesgenerator"
+}
